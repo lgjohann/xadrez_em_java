@@ -1,9 +1,9 @@
 package com.johann;
 
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
-import chess.Color;
+import com.johann.chess.ChessMatch;
+import com.johann.chess.ChessPiece;
+import com.johann.chess.ChessPosition;
+import com.johann.chess.Color;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;

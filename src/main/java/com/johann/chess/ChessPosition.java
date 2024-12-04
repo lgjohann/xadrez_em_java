@@ -1,6 +1,6 @@
-package chess;
+package com.johann.chess;
 
-import boardgame.Position;
+import com.johann.boardgame.Position;
 
 public class ChessPosition {
 

@@ -1,10 +1,10 @@
 package com.johann;
 
 
-import chess.ChessException;
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
+import com.johann.chess.ChessException;
+import com.johann.chess.ChessMatch;
+import com.johann.chess.ChessPiece;
+import com.johann.chess.ChessPosition;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

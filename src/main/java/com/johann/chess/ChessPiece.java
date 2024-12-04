@@ -1,8 +1,8 @@
-package chess;
+package com.johann.chess;
 
-import boardgame.Board;
-import boardgame.Piece;
-import boardgame.Position;
+import com.johann.boardgame.Board;
+import com.johann.boardgame.Piece;
+import com.johann.boardgame.Position;
 
 public abstract class ChessPiece extends Piece {
 
